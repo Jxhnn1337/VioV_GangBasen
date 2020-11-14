@@ -43,7 +43,7 @@
       }
     },
     {
-      "name": "Anonymus",
+      "name": "Marabunta Grande",
       "position": {
         "x": 3130,
         "y": 3510
@@ -54,7 +54,7 @@
         "b": 33
       },
       "description": {
-        "skin": "https://i.imgur.com/zLUi27z.png",
+        "skin": "https://gyazo.com/f2ffb8255b7f788a30c35eb0eba015aa",
         "texts": [
           {
             "title": "Farbe",
@@ -148,22 +148,22 @@
       }
     },
     {
-      "name": "Merkur",
+      "name": "CarfelX Cartell",
       "position": {
         "x": 4700,
         "y": 2000
       },
       "blip_color": {
-        "r": 0,
-        "g": 136,
-        "b": 255
+        "r": 245,
+        "g": 245,
+        "b": 0
       },
       "description": {
-        "skin": "https://i.imgur.com/Im3IcL7.png",
+        "skin": "https://i.imgur.com/80zwW8Z.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Hellblau"
+            "content": "Gelb"
           }
         ]
       }
